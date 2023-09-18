@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Getx_Demo_API_Calling"),
+        title: Text("API Calling"),
         centerTitle: true,
       ),
       body: Column(
